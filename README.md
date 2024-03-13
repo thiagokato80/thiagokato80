@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagokato80
 - 👀 I’m interested in learn more about Data Science
-- 🌱 I’m currently learning Python, SQL and Statistics (Coming soon R and Java)
+- 🌱 I’m currently learning Python, SQL and Statistics (Coming soon R)
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me thiagokato@gmail.com
 
